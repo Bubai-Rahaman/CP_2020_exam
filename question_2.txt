@@ -1,0 +1,22 @@
+List of library function use in python to perform different peration:
+
+a. Computing Fourier transform of a sample:   	numpy.fft.fft
+
+b. Obtaining the QR decomposition of a matrix: 		numpy.linalg.qr
+
+c. Obtaining a million random numbers from a lognormal PDF: 	numpy.random.lognormal
+
+d. Solving an ODE initial value problem using an 8th-order Runge-Kutta Method: 		scipy.integrate.solve_ivp( method = 'DOP853')
+
+e. Obtaining the singular value decomposition of a matrix: 		numpy.linalg.svd
+f. Sampling a 548-dimensional PDF: emcee.EnsembleSampler
+									emcee.EnsembleSampler.run_mcmc
+									emcee.EnsembleSampler.get_chain 
+					
+g.Solving an initial value problem for an ODE using adaptive step-size control: scipy.integrate.solve_ivp
+
+h. Integrating a 9-dimensional function using a Monte Carlo method:    skmonaco.mcquad
+
+i. Solving a boundary value problem for 3 coupled ODEs: 	scipy.integrate.solve_bvp
+
+j. Computing the eigenvalues and eigenvectors of a 10 × 10 complex matrix:	 numpy.linalg.eigh 
