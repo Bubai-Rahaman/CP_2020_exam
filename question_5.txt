@@ -1,0 +1,10 @@
+Q. How to choose good library?
+
+
+a) I have to see which of those libraries fulfill all of my requirments.
+
+b) Which one of those libraries has lower computational complexcity i,e takes minimum time to execute the work.
+
+c) Which of them has good documentation.
+
+d) I have to choose depending on my budget.
